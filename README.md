@@ -1,5 +1,5 @@
 # hello-world
-git hub tutorial
+git hub
 
 Using git hub for class in JavaScript at Seattle Central College
 I'm looking for work in GIS, in both traditional cartography and
